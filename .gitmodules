@@ -4,3 +4,6 @@
 [submodule "flutter-camera"]
 	path = flutter-camera
 	url = https://github.com/hericlesme/flutter-camera
+[submodule "flutter-backdrop"]
+	path = flutter-backdrop
+	url = https://github.com/hericlesme/flutter-backdrop.git
