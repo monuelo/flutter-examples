@@ -10,3 +10,6 @@
 [submodule "flutter-hero"]
 	path = flutter-hero
 	url = https://github.com/hericlesme/flutter-hero
+[submodule "flutter-audio-recorder"]
+	path = flutter-audio-recorder
+	url = https://github.com/hericlesme/flutter-audio-recorder
