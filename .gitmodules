@@ -13,3 +13,6 @@
 [submodule "flutter-audio-recorder"]
 	path = flutter-audio-recorder
 	url = https://github.com/hericlesme/flutter-audio-recorder
+[submodule "flare_sample"]
+	path = flare_sample
+	url = https://github.com/hericlesme/flare_sample
