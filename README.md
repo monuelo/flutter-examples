@@ -9,7 +9,7 @@ https://github.com/hericlesme/flutter-audio-recorder
 https://github.com/hericlesme/flutter-backdrop
 - Camera  
 https://github.com/hericlesme/flutter-camera
-- Hero Animations
+- Hero Animations  
 https://github.com/hericlesme/flutter-hero
-- Login
+- Login  
 https://github.com/hericlesme/flutter-login
